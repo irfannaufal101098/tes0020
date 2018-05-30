@@ -1,0 +1,3 @@
+Progdi		:TIK
+Jurusan		:TI
+Fakultas	:FTIK
